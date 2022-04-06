@@ -4,13 +4,15 @@ layout: contact
 description: Contact
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+AMP HPC operates on Eastern Time North America.
 
-| Day       | Opening Hours   |
-| --------- | --------------- |
-| Tuesday   | 8:30am - 5:00pm |
-| Wednesday | 8:30am - 5:00pm |
-| Thursday  | 8:30am - 5:00pm |
-| Friday    | 8:30am - 5:00pm |
-| Saturday  | 10:am - 4:00pm  |
-| Saturday  | Closed          |
+| Sales:     | sales@AMPHPC.com   |
+| Support:   | support@AMPHPC.com   |
+
+
+Shipping and Mailing:
+
+12 Ronan Cres\
+Woodbridge, ON\
+L4H 2J7\
+Canada
